@@ -8,7 +8,7 @@ https://ilunoticsquirrel.github.io/serrinha_ads/
 
 ```html
 <h1 style="color: blue;">Peixe-Serra</h1>
-------------------------------------------------------------------------------------------
+
 - Foi adicionado uma borda preta na imagem
 
 ```html
