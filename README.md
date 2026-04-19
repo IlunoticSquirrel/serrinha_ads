@@ -4,7 +4,7 @@ https://ilunoticsquirrel.github.io/serrinha_ads/
 
 
 
-## Alterações 
+## Alterações (19/04/26)
 
 
 * O título da página foi estilizado com a cor azul utilizando CSS inline.
